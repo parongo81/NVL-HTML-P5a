@@ -1,0 +1,13 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Flor de Lis</title>	
+	</head>
+	<body>
+		<h1>FLOR DE LIS</h1>
+		<meta charset="utf-8">
+		<center>
+		<img src="/Users/pacoroncerogonzalez/flor-de-lis-bulbo.jpg" title="Flor de Lis" alt="Flor de lis" height="600" width="600">	
+		</center>
+	</body>
+</html>
